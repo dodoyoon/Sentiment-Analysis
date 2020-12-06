@@ -1,7 +1,7 @@
 # Sentiment Analysis
 #### Sentiment Analysis of Youtube Comments
 
-
+[presentation](https://youtu.be/_1WixhS6dyg) | [pdf](https://github.com/dodoyoon/SentimentAnalysis/blob/main/presentation.pdf)
 
 ### How to run this web server
 1. Download data input
