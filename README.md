@@ -3,6 +3,9 @@
 
 [presentation](https://youtu.be/_1WixhS6dyg) | [pdf](https://github.com/dodoyoon/SentimentAnalysis/blob/main/presentation.pdf)
 
+### To Check
+chromedriver under [webdriver directory](https://github.com/dodoyoon/Sentiment-Analysis/tree/main/webdrivers) is currently for chrome version 86 Mac. If you are using different version of chrome or different OS, you should download suitable chromedriver from this [link](https://chromedriver.chromium.org/downloads). 
+
 ### How to run this web server
 1. Download data input <br>
 Download data of twitter dataset with sentiment from this [link](https://www.kaggle.com/kazanova/sentiment140)<br>
